@@ -1,0 +1,30 @@
+Time
+we
+Address
+Data In
+Data Out
+Operation
+10 ns
+1
+000
+10101010
+—
+Write
+20 ns
+1
+001
+11001100
+—
+Write
+30 ns
+0
+000
+—
+10101010
+Read
+40 ns
+0
+001
+—
+11001100
+Read
